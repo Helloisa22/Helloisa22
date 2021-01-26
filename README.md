@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 # Heloisa Beatriz 👩‍💻
 
 ## Hi Earthlings! 👋 Welcome to my profile ✨
-<sumary> <b> Things to know about me! </b> <i>(click to expand!</i><sumary>
+<sumary> <b> Things to know about me! </b> <i>(click to expand!)</i><sumary>
 
 <details>
-  ### My name is Heloisa and...
+### My name is Heloisa and...
 - 🌱 I’m currently learning ...
 
 <br>
-This is going to be hidden
 
 ![Heloisa Beatriz's github stats](https://github-readme-stats.vercel.app/api?username=Helloisa22&show_icons=true&theme=graywhite)
 
