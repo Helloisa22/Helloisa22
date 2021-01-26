@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 
 ## Hi Earthlings! 👋 Welcome to my profile ✨
 
-### My name is Heloisa and...
-- 🌱 I’m currently learning ...
 <details>
 <sumary> <b> Things to know about me! </b> <i>(click to expand!</i><sumary>
 
 <br>
-THIS IS GOING TO BE HIDDEN
+This is going to be hidden
 
 ![Heloisa Beatriz's github stats](https://github-readme-stats.vercel.app/api?username=Helloisa22&show_icons=true&theme=graywhite)
 
