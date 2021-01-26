@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 
 <br>
 
-![Heloisa Beatriz's github stats](https://github-readme-stats.vercel.app/api?username=Helloisa22&show_icons=true&theme=graywhite)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helloisa22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
