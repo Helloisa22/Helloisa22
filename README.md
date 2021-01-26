@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 ### My name is Heloisa and...
 - 🌱 I’m currently learning ...
+<br>
+This is going to be hidden
+</details>
 
 ![Heloisa Beatriz's github stats](https://github-readme-stats.vercel.app/api?username=Helloisa22&show_icons=true&theme=graywhite)
 
