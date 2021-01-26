@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ## Hi Earthlings! 👋 Welcome to my profile ✨
 ### My name is Heloisa and...
   
+- 🚀 Studying Analysis in Systems Development at *FIAP*
+- 🚀 Seeking new knowledge and skills
 - 📚 I like read
 - 😊 I like to talk about everything 
 
