@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <details>
 ### My name is Heloisa and...
+  
 - 🌱 I’m currently learning ...
 
 <br>
