@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ## Hi Earthlings! 👋 Welcome to my profile ✨
 ### My name is Heloisa and...
   
-- 📚 I like read...
-
+- 📚 I like read
+- 😊 I like to talk about everything 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helloisa22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
