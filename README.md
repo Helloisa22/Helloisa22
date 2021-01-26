@@ -20,11 +20,5 @@ Here are some ideas to get you started:
 ### My name is Heloisa and...
   
 - 📚 I like read...
-<sumary> <b> Things to know about me! </b> <i>(click to expand!)</i><sumary>
-
-<details>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helloisa22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
