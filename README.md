@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   
 - 🚀 Studying Analysis in Systems Development at *FIAP*
 - 🚀 Seeking new knowledge and skills
+- 🚀 Studying at Generation Brazil
 - 📚 I like read
 - 😊 I like to talk about everything 
 
