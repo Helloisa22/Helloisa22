@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 ### My name is Heloisa and...
 - 🌱 I’m currently learning ...
-! [Helloisa do github de Anurag] (https://github-readme-stats.vercel.app/api ? Username = Helloisa22 & show_icons = true & theme = radical )
+
+![Heloisa Beatriz's github stats](https://github-readme-stats.vercel.app/api?username=Helloisa22&show_icons=true&theme=radical)
