@@ -19,10 +19,16 @@ Here are some ideas to get you started:
 ## Hi Earthlings! 👋 Welcome to my profile ✨
 ### My name is Heloisa and...
   
-- 🚀 Studying Analysis in Systems Development at *FIAP*
+- 🚀 I'm Studying Analysis in Systems Development at *FIAP*
+- 🚀 I'm Studying at Generation Brazil
 - 🚀 Seeking new knowledge and skills
-- 🚀 Studying at Generation Brazil
 - 📚 I like read
 - 😊 I like to talk about everything 
+
+### Conecte-se comigo:
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
+<a href="https://www.linkedin.com/in/heloisa-beatriz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="HeloisaBeatriz" height="50" width="50" /></a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helloisa22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
