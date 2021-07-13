@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### My name is Heloisa and...
   
 - 🚀 I'm Studying Analysis in Systems Development at *FIAP*
-- 🚀 I'm Studying at Generation Brazil
 - 🚀 Seeking new knowledge and skills
 - 📚 I like read
 - 😊 I like to talk about everything 
