@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 # Heloisa Beatriz 👩‍💻
 
-## Hi Earthlings! 👋 Welcome to my profile ✨
-### My name is Heloisa and...
+### Hi Earthlings! 👋 Welcome to my profile ✨
   
 - 🚀 I'm Studying Analysis in Systems Development at *FIAP*
 - 🚀 Seeking new knowledge and skills
