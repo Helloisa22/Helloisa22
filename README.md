@@ -13,15 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🚀 I'm Studying Analysis in Systems Development at FIAP
+🚀 Java developer at Magna Sistemas
+🚀 web development teacher
+🚀 Seeking new knowledge and skills
 -->
 # Heloisa Beatriz 👩‍💻
 
 ### Hi Earthlings! 👋 Welcome to my profile ✨
   
 - 🚀 I'm Studying Analysis in Systems Development at *FIAP*
+- 🚀 Java developer at Magna Sistemas
+- 🚀 Web development teacher
 - 🚀 Seeking new knowledge and skills
-- 📚 I like read
-- 😊 I like to talk about everything 
 
 ##
 ###  Technologies:
