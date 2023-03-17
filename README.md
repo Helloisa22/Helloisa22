@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 <div  align="left">
   <h3>Connect with me:</h3>  
     <p>
-      <a href="https://www.linkedin.com/in/heloisa-beatriz-515139197/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/52077278/135925928-32dab723-cd9f-4b40-aa16-2397ff1221b3.png" alt="HeloisaBeatriz" height="35" width="35" /></a>
+      <a target="_blank" href="https://www.linkedin.com/in/heloisa-beatriz-515139197/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/52077278/135925928-32dab723-cd9f-4b40-aa16-2397ff1221b3.png" alt="HeloisaBeatriz" height="35" width="35" /></a>
     </p>
 </div>
