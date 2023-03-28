@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-🚀 I'm Studying Analysis in Systems Development at FIAP
-🚀 Java developer at Magna Sistemas
+🚀 Graduated in systems development analysis at FIAP
+🚀 postgraduate in software engineering and project management
+🚀 Developer Full Stack / Java developer
 🚀 web development teacher
 🚀 Seeking new knowledge and skills
 -->
@@ -22,15 +23,16 @@ Here are some ideas to get you started:
 
 ### Hi Earthlings! 👋 Welcome to my profile ✨
   
-- 🚀 I'm Studying Analysis in Systems Development at *FIAP*
-- 🚀 Java developer at Magna Sistemas
+- 🚀 Graduated in systems development analysis
+- 🚀 postgraduate in software engineering and project management
+- 🚀 Developer Full Stack / Java developer
 - 🚀 Web development teacher
 - 🚀 Seeking new knowledge and skills
 
 ##
 ###  Technologies:
 
-<img src = "https://i.imgur.com/SZw5fKK.png" height="35" width="35"/> <img src = "https://i.imgur.com/fY0ajRd.png" height="35" width="35"> <img src = "https://i.imgur.com/opyd6uS.png" height="35" width="35"> <img src = "https://i.imgur.com/N6BnJRl.png" height="35" width="35"> <img src = "https://i.imgur.com/mEF4bj3.png" height="35" width="35"> <img src = "https://i.imgur.com/bMbzppn.png" height="35" width="35"> <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="35" width="35"> <img src = "https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" height="35" width="35"> <img src = "https://i.imgur.com/Ce9bS32.png" height="35" width="35">
+<img src = "https://i.imgur.com/SZw5fKK.png" height="35" width="35"/> <img src = "https://i.imgur.com/fY0ajRd.png" height="35" width="35"> <img src = "https://i.imgur.com/opyd6uS.png" height="35" width="35"> <img src = "https://i.imgur.com/N6BnJRl.png" height="35" width="35"> <img src = "https://i.imgur.com/mEF4bj3.png" height="35" width="35"> <img src = "https://i.imgur.com/bMbzppn.png" height="35" width="35">  <img src = "https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" height="35" width="35"> <img src = "https://i.imgur.com/Ce9bS32.png" height="35" width="35"> <img src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="35" width="35">
 <!-- <img src = "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" height="35" width="35">  -->
 
 <!-- ##
