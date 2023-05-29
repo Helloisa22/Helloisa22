@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img src = "https://i.imgur.com/mEF4bj3.png" height="35" width="35"> -->
 
 
-<a href="https://github.com/Helloisa22?tab=repositories"><img height="135px" src="https://github-readme-stats.vercel.app/api?username=Helloisa22&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=20&_color=9f9f9f&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&theme=graywhite" /> <!-- <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helloisa22&hide_title=false&hide_border=true&layout=compact&langs_count=7,Redventures-Movie-Quotes&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&theme=graywhite" /></a> -->
+<a href="https://github.com/Helloisa22?tab=repositories"><img height="135px" src="https://github-readme-stats.vercel.app/api?username=Helloisa22&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=20&_color=9f9f9f&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&theme=graywhite" /> <!-- <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helloisa22&hide_title=false&hide_border=true&layout=compact&langs_count=7,Redventures-Movie-Quotes&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&theme=graywhite" /></a> -->
 
 ##
 <div  align="left">
@@ -50,3 +50,6 @@ Here are some ideas to get you started:
       <a href="https://www.linkedin.com/in/heloisa-beatriz-515139197/" target="_blank"><img target="_blank"  align="center" src="https://user-images.githubusercontent.com/52077278/135925928-32dab723-cd9f-4b40-aa16-2397ff1221b3.png" alt="HeloisaBeatriz" height="35" width="35" /></a>
     </p>
 </div>
+  
+  
+![](https://github-readme-stats.vercel.app/api?username=Helloisa22&line_height=20&_color=9f9f9f&text_color=9f9f9f&icon_color=79ff97&bg_color=151515&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
