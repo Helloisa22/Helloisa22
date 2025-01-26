@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div  align="left">
   <h3>Connect with me:</h3>  
     <p>
-      <a href="https://www.linkedin.com/in/heloisa-beatriz-515139197/" target="_blank"><img target="_blank"  align="center" src="https://user-images.githubusercontent.com/52077278/135925928-32dab723-cd9f-4b40-aa16-2397ff1221b3.png" alt="HeloisaBeatriz" height="35" width="35" /></a>
+      <a href="https://www.linkedin.com/in/heloisa-beatriz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </p>
 </div>
   
